@@ -8,4 +8,3 @@ The goal is to assist in early and precise identification of potato plant diseas
 
 ![image](https://github.com/vaiibs/Potato-Disease-Classification/assets/97294116/105798d9-d8a6-47b5-9f3a-55a114000f0f)
 
-<img width="489" alt="image" src="https://github.com/vaiibs/Potato-Disease-Classification/assets/97294116/bb3c9b89-8403-4e15-9783-a14609e75578">
