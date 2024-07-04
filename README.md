@@ -1,4 +1,4 @@
-Potato Disease Detection:
+#Potato Disease Detection:
 
 This project develops Potato Disease Detection web application using Streamlit in Python.
 
