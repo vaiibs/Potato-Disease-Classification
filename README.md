@@ -1,6 +1,6 @@
 # Potato Disease Detection:
 
-This project develops Potato Disease Detection web application using Streamlit in Python.
+This project develops Potato Disease Detection web application using Python.
 
 The CNN is trained to predict potato leaf diseases from labeled image datasets.
 
