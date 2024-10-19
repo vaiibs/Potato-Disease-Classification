@@ -6,6 +6,7 @@ The CNN is trained to predict potato leaf diseases from labeled image datasets.
 
 The goal is to assist in early and precise identification of potato plant diseases, which can significantly benefit farmers and the agricultural industry.
 
+![image](https://github.com/user-attachments/assets/36271529-a5eb-41d4-b1de-656fc81f2759)
 
 Dataset Link:
 
